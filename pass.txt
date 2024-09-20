@@ -9,4 +9,3 @@ test8910
 test11
 test12
 test14
-reset
